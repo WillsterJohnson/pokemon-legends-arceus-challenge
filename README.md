@@ -6,7 +6,7 @@ Checklist for a challenge run of Pokémon Legends: Arceus.
 
 This is an adaptation of a (much harder) challenge sheet I created, you can find the original [here](https://gist.github.com/WillsterJohnson/37fb7f57f228c678d0ad4dbf02244670).
 
-To do this challenge yourself, download this file, and do a find-and-replace to swap `[x]` for `[ ]` (*with a space between the braces!*), then open the file in [Obsidian](https://obsidian.md/) or your favorite markdown editor.
+To do this challenge yourself, download this file, and do a find-and-replace to swap `[x]` for `[ ]` (*with a space between the braces!*), then open the file in [Obsidian](https://obsidian.md/) or your favorite markdown editor. Or download the original, linked above, and make your own rules.
 
 The primary goal is to complete every item on this checklist, without trading and without Pokémon Home.
 
@@ -47,16 +47,16 @@ The ones that get mad and glow yellow that you throw bags of food at.
 - [x] Kleavor
 - [x] Lilligant
 - [x] Arcanine
-- [ ] Electrode
-- [ ] Avalugg
+- [x] Electrode
+- [x] Avalugg
 
 The ones that blink into existence underneath you when you wanna go places.
 
 - [x] Wyrdeer
 - [x] Basculegion
 - [x] Ursaluna
-- [ ] Sneasler
-- [ ] Braviary
+- [x] Sneasler
+- [x] Braviary
 
 ### The Stars
 
@@ -67,7 +67,7 @@ Your rank in the Survey Corps.
 - [x] Third Star
 - [x] Fourth Star
 - [x] Fifth Star
-- [ ] Sixth Star
+- [x] Sixth Star
 - [ ] Seventh Star
 - [ ] Eighth Star
 - [ ] Ninth Star
@@ -138,7 +138,7 @@ Crafting recipes.
 
 - [x] Poke Ball
 - [x] Great Ball
-- [ ] Ultra Ball
+- [x] Ultra Ball
 - [x] Heavy Ball
 - [x] Leaden Ball
 - [ ] Gigaton Ball
@@ -148,36 +148,36 @@ Crafting recipes.
 - [x] Potion
 - [x] Super Potion
 - [x] Hyper Potion
-- [ ] Max Potion
+- [x] Max Potion
 - [x] Remedy
 - [x] Fine Remedy
-- [ ] Superb Remedy
-- [ ] Full Heal
+- [x] Superb Remedy
+- [x] Full Heal
 - [ ] Full Restore
 - [x] Revive
 - [ ] Max Revive
-- [ ] Max Ether
+- [x] Max Ether
 - [ ] Max Elixir
 - [ ] Jubilife Muffin
 - [ ] Old Gateaux
 - [x] Mushroom Cake
-- [ ] Bean Cake
+- [x] Bean Cake
 - [x] Honey Cake
 - [x] Grain Cake
-- [ ] Salt Cake
-- [ ] Sticky Glob
+- [x] Salt Cake
+- [x] Sticky Glob
 - [x] Smoke Bomb
 - [ ] Stealth Spray
 - [x] Scatter Bang
 - [ ] Star Piece
 - [x] Pokeshi Doll
-- [ ] Aux Evasion
+- [x] Aux Evasion
 - [x] Aux Guard
 - [x] Aux Power
 - [ ] Aux Powerguard
 - [x] Dire Hit
 - [ ] Swap Snack
-- [ ] Twice-Spiced Radish
+- [x] Twice-Spiced Radish
 - [ ] Choice Dumpling
 
 ### The Story
@@ -194,14 +194,14 @@ Main story missions.
 - [x] 008 Arezu's Predicament
 - [x] 009 A New Mission
 - [x] 010 The Lordless Island
-- [ ] 011 Scaling Perilous Heights
-- [ ] 012 The Slumbering Lord of the Tundra
-- [ ] 013 Disaster Looming
-- [ ] 014 The Trial of Lake Verity
-- [ ] 015 The Trial of Lake Valor
-- [ ] 016 The Trial of Lake Acuity
-- [ ] 017 Atop Mount Coronet
-- [ ] 018 The Counterpart
+- [x] 011 Scaling Perilous Heights
+- [x] 012 The Slumbering Lord of the Tundra
+- [x] 013 Disaster Looming
+- [x] 014 The Trial of Lake Verity
+- [x] 015 The Trial of Lake Valor
+- [x] 016 The Trial of Lake Acuity
+- [x] 017 Atop Mount Coronet
+- [x] 018 The Counterpart
 - [ ] 019 A New Day Dawns
 - [ ] 020 The Researcher of Myths
 - [ ] 021 The Plate of the Lakes
@@ -237,21 +237,23 @@ Side quests, or 'requests' in-game. Some of these grant useful unlocks, so be su
 - [x] 019 A Peculiar Ponyta
 - [x] 020 The Mysterious Will-o'-the-Wisp
 - [x] 021 Back-Alley Mr. Mime
-- [ ] 022 Eerie Apparitions in the Night
+- [x] 022 Eerie Apparitions in the Night
 	- [x] Jubilife
 		All of these are easy
 	- [x] Obsidian Fieldlands
-		Wisps on islands require Basculegion; river is too wide to jump or swim.
-		All others are possible with Wyrdeer only.
+		Wisps on islands require Basculegion; river is too wide to jump or swim
+		All others are possible with Wyrdeer only
 	- [x] Crimson Mirelands
-		All of these are possible with Wyrdeer only.
+		All of these are possible with Wyrdeer only
 	- [x] Cobalt Coastlands
 		Many of these require Basculegion
-	- [ ] Alabaster Iceland
-	- [ ] Coronet Highlands
+	- [x] Coronet Highlands
+    	Several of these require Sneasler
+	- [x] Alabaster Iceland
+    	There is one inside Snowpoint Temple which requires story progression
 - [x] 023 Getting Ahold of New Wares
 - [x] 024 Inspiration from Hippopotas
-- [ ] 025 The Pokemon in the Woodland Photo
+- [x] 025 The Pokemon in the Woodland Photo
 - [x] 026 Aim for the Big Leagues!
 - [x] 027 Help Wanted: Plowing the Fields
 - [x] 028 Measuring Your Compatibility
@@ -262,7 +264,7 @@ Side quests, or 'requests' in-game. Some of these grant useful unlocks, so be su
 - [ ] 033 What a Massive Mushroom!
 - [x] 034 Croagunk's Curative Poison
 - [x] 035 Battling with Pachirisu
-- [ ] 036 Watering with Care
+- [x] 036 Watering with Care
 - [x] 037 The Fragrance of Nostalgic Herbs
 - [x] 038 Gone Astray...in the Mirelands
 - [x] 039 All About Magikarp
@@ -270,7 +272,7 @@ Side quests, or 'requests' in-game. Some of these grant useful unlocks, so be su
 - [x] 041 An Elegant Tail
 - [x] 042 Help Wanted: Watering the Fields
 - [x] 043 More New Wares
-- [ ] 044 The Pokemon in the Nighttime Photo
+- [x] 044 The Pokemon in the Nighttime Photo
 - [x] 045 Shellos of the East and West
 - [x] 046 Setting Up the Coastlands Camp
 - [x] 047 Balloon Race in the Coastlands
@@ -285,36 +287,36 @@ Side quests, or 'requests' in-game. Some of these grant useful unlocks, so be su
 - [x] 056 Getting Help From Machoke
 - [x] 057 The Taste of Honey
 - [x] 058 Gone Astray...in the Coastlands
-- [ ] 059 Misdreavus the Hairstyle Muse
+- [x] 059 Misdreavus the Hairstyle Muse
 - [x] 060 Help Wanted: Rock Smashing in the Fields
-- [ ] 061 Even More New Wares
-- [ ] 062 The Pokemon in the River Photo
-- [ ] 063 Fancy, Fashionable Wormadam
+- [x] 061 Even More New Wares
+- [x] 062 The Pokemon in the River Photo
+- [x] 063 Fancy, Fashionable Wormadam
 - [ ] 064 Getting to Know Ghosts
 - [x] 065 Setting Up the Mountain Camp
-- [ ] 066 The Sea's Legend
-- [ ] 067 The Clefairy's Moonlit Dance
-- [ ] 068 A Nosepass to Guide the Way
-- [ ] 069 Gone Astray...in the Highlands
+- [x] 066 The Sea's Legend
+- [x] 067 The Clefairy's Moonlit Dance
+- [x] 068 A Nosepass to Guide the Way
+- [x] 069 Gone Astray...in the Highlands
 - [ ] 070 Colorful New Looks
-- [ ] 071 New Wares Yet Again
+- [x] 071 New Wares Yet Again
 - [ ] 072 Pesselle's Easy Errand
-- [ ] 073 Which Is the Real Burmy?
+- [x] 073 Which Is the Real Burmy?
 - [ ] 074 A Bit of Help from Blissey
-- [ ] 075 Kirlia the Hairstyle Muse
+- [x] 075 Kirlia the Hairstyle Muse
 - [ ] 076 Mushroom Hunting with Swinub
-- [ ] 077 Gone Astray...in the Fieldlands
-- [ ] 078 Setting Up the Icepeak Camp
-- [ ] 079 Balloon Race in the Icelands
-- [ ] 080 The Perfect Pickle Recipe
+- [x] 077 Gone Astray...in the Fieldlands
+- [x] 078 Setting Up the Icepeak Camp
+- [x] 079 Balloon Race in the Icelands
+- [x] 080 The Perfect Pickle Recipe
 - [ ] 081 In Search of a Fiery Pokemon
-- [ ] 082 Traces of a Lost Village
+- [x] 082 Traces of a Lost Village
 - [ ] 083 Snow-White Vulpix in the Snow
 - [ ] 084 The Bergmite Enthusiast
-- [ ] 085 At Home under the Eaves
-- [ ] 086 Gone Astray...in the Icelands
-- [ ] 087 Rolling with Spheal
-- [ ] 088 Steely Lucario
+- [x] 085 At Home under the Eaves
+- [x] 086 Gone Astray...in the Icelands
+- [x] 087 Rolling with Spheal
+- [x] 088 Steely Lucario
 - [ ] 089 The Diamond Clan's Treasure
 - [ ] 090 The Pearl Clan's Treasure
 - [ ] 091 On the Trail of Giratina
@@ -330,8 +332,8 @@ Side quests, or 'requests' in-game. Some of these grant useful unlocks, so be su
 - [ ] 101 Massive Mass Outbreak in the Icelands
 - [ ] 102 Daybreak
 - [ ] 103 Digging for Tomorrow
-- [ ] 104 Battling the Security Corps' Secret Weapon
-- [ ] 105 The Ultimate Balloon Race
+- [x] 104 Battling the Security Corps' Secret Weapon
+- [x] 105 The Ultimate Balloon Race
 - [ ] 106 Adaman's Hope
 - [ ] 107 Irida's Wish
 
@@ -341,7 +343,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #001 Rowlet <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/4/49/Menu_LA_722.png/68px-Menu_LA_722.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -351,7 +353,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #002 Dartrix <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/9/98/Menu_LA_723.png/68px-Menu_LA_723.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -361,7 +363,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #003 Decidueye <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/4/48/Menu_LA_724H.png/68px-Menu_LA_724H.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -431,10 +433,9 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #010 Bidoof <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/1/17/Menu_LA_399.png/68px-Menu_LA_399.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
-- [ ] Defeat 1000 Bidoof
 
 - [x] Female (LAFS Dex: box 1 slot 10)
     - [ ] Alpha
@@ -458,7 +459,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #012 Starly <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/3/3c/Menu_LA_396.png/68px-Menu_LA_396.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -471,14 +472,14 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #013 Staravia <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/4/4f/Menu_LA_397.png/68px-Menu_LA_397.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Female (LAFS Dex: box 1 slot 16)
+- [x] Female (LAFS Dex: box 1 slot 16)
     - [ ] Alpha
     - [ ] Shiny
-- [ ] Male (LAFS Dex: box 1 slot 17)
+- [x] Male (LAFS Dex: box 1 slot 17)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -497,7 +498,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #015 Shinx <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/d/d9/Menu_LA_403.png/68px-Menu_LA_403.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -530,13 +531,13 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 - [ ] Female (LAFS Dex: box 1 slot 24)
     - [ ] Alpha
     - [ ] Shiny
-- [ ] Male (LAFS Dex: box 1 slot 25)
+- [x] Male (LAFS Dex: box 1 slot 25)
     - [ ] Alpha
     - [ ] Shiny
 
 #### #018 Wurmple <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/b/bd/Menu_LA_265.png/68px-Menu_LA_265.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -592,7 +593,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #023 Ponyta <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/e/e4/Menu_LA_077.png/68px-Menu_LA_077.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -612,7 +613,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #025 Eevee <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/6/6c/Menu_LA_133.png/68px-Menu_LA_133.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -659,7 +660,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 2 slot 10)
+- [x] Regular (LAFS Dex: box 2 slot 10)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -669,7 +670,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 2 slot 11)
+- [x] Regular (LAFS Dex: box 2 slot 11)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -705,7 +706,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #034 Zubat <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/7/77/Menu_LA_041.png/68px-Menu_LA_041.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -741,7 +742,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #037 Drifloon <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/1/1b/Menu_LA_425.png/68px-Menu_LA_425.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -755,14 +756,14 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 2 slot 21)
+- [x] Regular (LAFS Dex: box 2 slot 21)
     - [ ] Alpha
     - [ ] Shiny
 
 #### #039 Kricketot <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/4/44/Menu_LA_401.png/68px-Menu_LA_401.png" />
 
-- [ ] Research Level 10
-    - [ ] Perfect
+- [x] Research Level 10
+    - [x] Perfect
 - [ ] Path of Solitude
 
 - [x] Female (LAFS Dex: box 2 slot 22)
@@ -787,7 +788,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #041 Buizel <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/9/9f/Menu_LA_418.png/68px-Menu_LA_418.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -813,7 +814,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #043 Burmy <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/7/7c/Menu_LA_412S.png/68px-Menu_LA_412S.png" /><img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/d/d1/Menu_LA_412G.png/68px-Menu_LA_412G.png" /><img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/8/89/Menu_LA_412.png/68px-Menu_LA_412.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -833,7 +834,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Plant (LAFS Dex: box 3 slot 3)
+- [x] Plant (LAFS Dex: box 3 slot 3)
     - [ ] Alpha
     - [ ] Shiny
 - [ ] Sand (LAFS Dex: box 3 slot 4)
@@ -855,7 +856,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #046 Geodude <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/8/8a/Menu_LA_074.png/68px-Menu_LA_074.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -885,7 +886,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #049 Stantler <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/2/2d/Menu_LA_234.png/68px-Menu_LA_234.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -899,8 +900,8 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 3 slot 11)
-    - [ ] Alpha
+- [x] Regular (LAFS Dex: box 3 slot 11)
+    - [x] Alpha
     - [ ] Shiny
 
 #### #051 Munchlax <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/a/aa/Menu_LA_446.png/68px-Menu_LA_446.png" />
@@ -962,7 +963,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 - [x] Female (LAFS Dex: box 3 slot 17)
     - [ ] Alpha
     - [ ] Shiny
-- [ ] Male (LAFS Dex: box 3 slot 18)
+- [x] Male (LAFS Dex: box 3 slot 18)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -985,7 +986,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 3 slot 21)
+- [x] Regular (LAFS Dex: box 3 slot 21)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -1077,7 +1078,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #067 Cherrim <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/5/5c/Menu_LA_421.png/68px-Menu_LA_421.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -1107,7 +1108,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #070 Combee <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/2/2a/Menu_LA_415.png/68px-Menu_LA_415.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -1225,14 +1226,14 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #080 Magikarp <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/8/86/Menu_LA_129.png/68px-Menu_LA_129.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
 - [x] Female (LAFS Dex: box 4 slot 21)
     - [ ] Alpha
     - [ ] Shiny
-- [ ] Male (LAFS Dex: box 4 slot 22)
+- [x] Male (LAFS Dex: box 4 slot 22)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -1277,11 +1278,11 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #084 Qwilfish <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/0/02/Menu_LA_211H.png/68px-Menu_LA_211H.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [x] Regular (LAFS Dex: box 4 slot 29)
+- [ ] Regular (LAFS Dex: box 4 slot 29)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -1291,7 +1292,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 4 slot 30)
+- [x] Regular (LAFS Dex: box 4 slot 30)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -1327,7 +1328,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #089 Budew <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/5/52/Menu_LA_406.png/68px-Menu_LA_406.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -1337,7 +1338,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #090 Roselia <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/3/31/Menu_LA_315.png/68px-Menu_LA_315.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -1456,7 +1457,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 - [ ] Female (LAFS Dex: box 5 slot 19)
     - [ ] Alpha
     - [ ] Shiny
-- [ ] Male (LAFS Dex: box 5 slot 20)
+- [x] Male (LAFS Dex: box 5 slot 20)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -1476,7 +1477,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 5 slot 22)
+- [x] Regular (LAFS Dex: box 5 slot 22)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -1539,7 +1540,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Female (LAFS Dex: box 5 slot 29)
+- [x] Female (LAFS Dex: box 5 slot 29)
     - [ ] Alpha
     - [ ] Shiny
 - [x] Male (LAFS Dex: box 5 slot 30)
@@ -1561,7 +1562,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #110 Stunky <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/a/a2/Menu_LA_434.png/68px-Menu_LA_434.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -1585,7 +1586,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 6 slot 5)
+- [x] Regular (LAFS Dex: box 6 slot 5)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -1595,7 +1596,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Female (LAFS Dex: box 6 slot 6)
+- [x] Female (LAFS Dex: box 6 slot 6)
     - [ ] Alpha
     - [ ] Shiny
 - [ ] Male (LAFS Dex: box 6 slot 7)
@@ -1614,7 +1615,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #115 Goomy <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/c/c0/Menu_LA_704.png/68px-Menu_LA_704.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -1648,7 +1649,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 6 slot 12)
+- [x] Regular (LAFS Dex: box 6 slot 12)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -1671,7 +1672,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Female (LAFS Dex: box 6 slot 15)
+- [x] Female (LAFS Dex: box 6 slot 15)
     - [ ] Alpha
     - [ ] Shiny
 - [ ] Male (LAFS Dex: box 6 slot 16)
@@ -1723,7 +1724,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 - [ ] Female (LAFS Dex: box 6 slot 22)
     - [ ] Alpha
     - [ ] Shiny
-- [ ] Male (LAFS Dex: box 6 slot 23)
+- [x] Male (LAFS Dex: box 6 slot 23)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -1839,11 +1840,11 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #136 Gastly <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/f/fa/Menu_LA_092.png/68px-Menu_LA_092.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 7 slot 5)
+- [x] Regular (LAFS Dex: box 7 slot 5)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -1853,7 +1854,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 7 slot 6)
+- [x] Regular (LAFS Dex: box 7 slot 6)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -1873,7 +1874,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 7 slot 8)
+- [x] Regular (LAFS Dex: box 7 slot 8)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -1883,7 +1884,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Female (LAFS Dex: box 7 slot 9)
+- [x] Female (LAFS Dex: box 7 slot 9)
     - [ ] Alpha
     - [ ] Shiny
 - [ ] Male (LAFS Dex: box 7 slot 10)
@@ -1909,7 +1910,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 - [ ] ! (LAFS Dex: box 7 slot 12)
     - [ ] Alpha
     - [ ] Shiny
-- [ ] ? (LAFS Dex: box 7 slot 13)
+- [x] ? (LAFS Dex: box 7 slot 13)
     - [ ] Alpha
     - [ ] Shiny
 - [ ] A (LAFS Dex: box 7 slot 14)
@@ -1927,13 +1928,13 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 - [ ] E (LAFS Dex: box 7 slot 18)
     - [ ] Alpha
     - [ ] Shiny
-- [ ] F (LAFS Dex: box 7 slot 19)
+- [x] F (LAFS Dex: box 7 slot 19)
     - [ ] Alpha
     - [ ] Shiny
 - [ ] G (LAFS Dex: box 7 slot 20)
     - [ ] Alpha
     - [ ] Shiny
-- [ ] H (LAFS Dex: box 7 slot 21)
+- [x] H (LAFS Dex: box 7 slot 21)
     - [ ] Alpha
     - [ ] Shiny
 - [ ] I (LAFS Dex: box 7 slot 22)
@@ -1957,7 +1958,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 - [ ] O (LAFS Dex: box 7 slot 28)
     - [ ] Alpha
     - [ ] Shiny
-- [ ] P (LAFS Dex: box 7 slot 29)
+- [x] P (LAFS Dex: box 7 slot 29)
     - [ ] Alpha
     - [ ] Shiny
 - [ ] Q (LAFS Dex: box 7 slot 30)
@@ -1969,7 +1970,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 - [ ] S (LAFS Dex: box 8 slot 2)
     - [ ] Alpha
     - [ ] Shiny
-- [ ] T (LAFS Dex: box 8 slot 3)
+- [x] T (LAFS Dex: box 8 slot 3)
     - [ ] Alpha
     - [ ] Shiny
 - [ ] U (LAFS Dex: box 8 slot 4)
@@ -1978,13 +1979,13 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 - [ ] V (LAFS Dex: box 8 slot 5)
     - [ ] Alpha
     - [ ] Shiny
-- [ ] W (LAFS Dex: box 8 slot 6)
+- [x] W (LAFS Dex: box 8 slot 6)
     - [ ] Alpha
     - [ ] Shiny
 - [ ] X (LAFS Dex: box 8 slot 7)
     - [ ] Alpha
     - [ ] Shiny
-- [ ] Y (LAFS Dex: box 8 slot 8)
+- [x] Y (LAFS Dex: box 8 slot 8)
     - [ ] Alpha
     - [ ] Shiny
 - [ ] Z (LAFS Dex: box 8 slot 9)
@@ -2033,7 +2034,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #147 Octillery <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/d/d2/Menu_LA_224.png/68px-Menu_LA_224.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -2106,7 +2107,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #154 Machop <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/d/d5/Menu_LA_066.png/68px-Menu_LA_066.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -2116,7 +2117,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #155 Machoke <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/b/bd/Menu_LA_067.png/68px-Menu_LA_067.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -2126,7 +2127,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #156 Machamp <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/3/3c/Menu_LA_068.png/68px-Menu_LA_068.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -2150,7 +2151,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 8 slot 26)
+- [x] Regular (LAFS Dex: box 8 slot 26)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -2170,13 +2171,13 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 8 slot 28)
-    - [ ] Alpha
+- [x] Regular (LAFS Dex: box 8 slot 28)
+    - [x] Alpha
     - [ ] Shiny
 
 #### #161 Piplup <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/f/f6/Menu_LA_393.png/68px-Menu_LA_393.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
@@ -2210,7 +2211,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 9 slot 2)
+- [x] Regular (LAFS Dex: box 9 slot 2)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -2236,7 +2237,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 - [ ] Red (LAFS Dex: box 9 slot 5)
     - [ ] Alpha
     - [ ] Shiny
-- [ ] White (LAFS Dex: box 9 slot 6)
+- [x] White (LAFS Dex: box 9 slot 6)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -2345,11 +2346,11 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #176 Magmortar <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/a/a4/Menu_LA_467.png/68px-Menu_LA_467.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 9 slot 19)
+- [x] Regular (LAFS Dex: box 9 slot 19)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -2389,7 +2390,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 9 slot 23)
+- [x] Regular (LAFS Dex: box 9 slot 23)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -2399,7 +2400,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 9 slot 24)
+- [x] Regular (LAFS Dex: box 9 slot 24)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -2537,33 +2538,33 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #194 Rotom <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/6/68/Menu_LA_479.png/68px-Menu_LA_479.png" /><img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/e/ec/Menu_LA_479W.png/68px-Menu_LA_479W.png" /><img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/b/b4/Menu_LA_479L.png/68px-Menu_LA_479L.png" /><img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/5/53/Menu_LA_479O.png/68px-Menu_LA_479O.png" /><img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/9/94/Menu_LA_479R.png/68px-Menu_LA_479R.png" /><img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/8/85/Menu_LA_479F.png/68px-Menu_LA_479F.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
 - Items from Ginter of the Ginko Guild:
-    - [ ] Mechanical Box (Oven)
-    - [ ] Mechanical Cabinet (Refrigerator)
-    - [ ] Mechanical Tub (Washing Machine)
-    - [ ] Mechanical Pinwheel (Electric fan)
-    - [ ] Mechanical Circular Saw (Lawnmower)
+    - [ ] Mechanical Pinwheel (Electric fan, fan Rotom)
+    - [x] Mechanical Cabinet (Refrigerator, frost Rotom)
+    - [x] Mechanical Box (Oven, heat Rotom)
+    - [x] Mechanical Circular Saw (Lawnmower, mow Rotom)
+    - [x] Mechanical Tub (Washing Machine, wash Rotom)
 
 - [ ] Fan (LAFS Dex: box 10 slot 11)
     - [ ] Alpha
     - [ ] Shiny
-- [ ] Frost (LAFS Dex: box 10 slot 12)
+- [x] Frost (LAFS Dex: box 10 slot 12)
     - [ ] Alpha
     - [ ] Shiny
-- [ ] Heat (LAFS Dex: box 10 slot 13)
+- [x] Heat (LAFS Dex: box 10 slot 13)
     - [ ] Alpha
     - [ ] Shiny
-- [ ] Mow (LAFS Dex: box 10 slot 14)
+- [x] Mow (LAFS Dex: box 10 slot 14)
     - [ ] Alpha
     - [ ] Shiny
-- [ ] Wash (LAFS Dex: box 10 slot 15)
+- [x] Wash (LAFS Dex: box 10 slot 15)
     - [ ] Alpha
     - [ ] Shiny
-- [ ] Wild (LAFS Dex: box 10 slot 16)
+- [x] Wild (LAFS Dex: box 10 slot 16)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -2573,7 +2574,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 10 slot 17)
+- [x] Regular (LAFS Dex: box 10 slot 17)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -2583,7 +2584,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 10 slot 18)
+- [x] Regular (LAFS Dex: box 10 slot 18)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -2593,7 +2594,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 10 slot 19)
+- [x] Regular (LAFS Dex: box 10 slot 19)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -2613,7 +2614,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 10 slot 21)
+- [x] Regular (LAFS Dex: box 10 slot 21)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -2623,7 +2624,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 10 slot 22)
+- [x] Regular (LAFS Dex: box 10 slot 22)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -2643,10 +2644,10 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Hisuian Female (LAFS Dex: box 10 slot 24)
+- [x] Hisuian Female (LAFS Dex: box 10 slot 24)
     - [ ] Alpha
     - [ ] Shiny
-- [ ] Hisuian Male (LAFS Dex: box 10 slot 25)
+- [x] Hisuian Male (LAFS Dex: box 10 slot 25)
     - [ ] Alpha
     - [ ] Shiny
 - [ ] Johtoan Female (LAFS Dex: box 10 slot 26)
@@ -2695,8 +2696,8 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 11 slot 2)
-    - [ ] Alpha
+- [x] Regular (LAFS Dex: box 11 slot 2)
+    - [x] Alpha
     - [ ] Shiny
 
 #### #207 Froslass <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/9/95/Menu_LA_478.png/68px-Menu_LA_478.png" />
@@ -2787,11 +2788,11 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
 
 #### #215 Bergmite <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/f/f5/Menu_LA_712.png/68px-Menu_LA_712.png" />
 
-- [ ] Research Level 10
+- [x] Research Level 10
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 11 slot 13)
+- [x] Regular (LAFS Dex: box 11 slot 13)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -2837,7 +2838,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Regular (LAFS Dex: box 11 slot 19)
+- [x] Regular (LAFS Dex: box 11 slot 19)
     - [ ] Alpha
     - [ ] Shiny
 
@@ -3017,7 +3018,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Caught (LAFS Dex: box 12 slot 9)
+- [x] Caught (LAFS Dex: box 12 slot 9)
 
 #### #240 Manaphy <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/8/89/Menu_LA_490.png/68px-Menu_LA_490.png" />
 
@@ -3025,7 +3026,7 @@ Path of Solitude quests are not listed here; instead the Path of Solitude is tra
     - [ ] Perfect
 - [ ] Path of Solitude
 
-- [ ] Caught (LAFS Dex: box 12 slot 10)
+- [x] Caught (LAFS Dex: box 12 slot 10)
 
 #### #241 Shaymin <img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/9/92/Menu_LA_492S.png/68px-Menu_LA_492S.png" /><img align="right" src="https://archives.bulbagarden.net/media/upload/thumb/e/ef/Menu_LA_492.png/68px-Menu_LA_492.png" />
 
